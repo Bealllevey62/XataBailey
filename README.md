@@ -25,4 +25,5 @@ await sock.requestPairingCode(number, "XATABELA");
 
 ---
 
-## Made with Love by Xeuka <3
+
+## I LOVE YOU BELLA <3
